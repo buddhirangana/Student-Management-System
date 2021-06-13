@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>E:\NIIBS IT Project\Student_Management_System\dist\Student_Management_System.jar</jar>
+  <outfile>E:\NIIBS IT Project\Student_Management_System\dist\SMS.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>E:\NIIBS IT Project\Student Management System File\SMS ICON.ico</icon>
+  <singleInstance>
+    <mutexName>Student Management System</mutexName>
+    <windowTitle>Student Management System</windowTitle>
+  </singleInstance>
+  <classPath>
+    <mainClass>student_management_system.Student_Management_System</mainClass>
+    <cp>lib/DateChooser.jar</cp>
+    <cp>lib/activation-1.1.1.jar</cp>
+    <cp>lib/beansbinding-1.2.1.jar</cp>
+    <cp>lib/commons-codec-1.13.jar</cp>
+    <cp>lib/commons-collections4-4.4.jar</cp>
+    <cp>lib/commons-compress-1.19.jar</cp>
+    <cp>lib/commons-logging-1.2.jar</cp>
+    <cp>lib/commons-math3-3.6.1.jar</cp>
+    <cp>lib/curvesapi-1.06.jar</cp>
+    <cp>lib/jaxb-api-2.3.1.jar</cp>
+    <cp>lib/jaxb-core-2.3.0.1.jar</cp>
+    <cp>lib/jaxb-impl-2.3.2.jar</cp>
+    <cp>lib/jcalendar-1.4.jar</cp>
+    <cp>lib/junit-4.12.jar</cp>
+    <cp>lib/log4j-1.2.17.jar</cp>
+    <cp>lib/mysql-connector-java-5.1.48-bin.jar</cp>
+    <cp>lib/mysql-connector-java-5.1.48.jar</cp>
+    <cp>lib/poi-4.1.1.jar</cp>
+    <cp>lib/poi-examples-4.1.1.jar</cp>
+    <cp>lib/poi-excelant-4.1.1.jar</cp>
+    <cp>lib/poi-ooxml-4.1.1.jar</cp>
+    <cp>lib/poi-ooxml-schemas-4.1.1.jar</cp>
+    <cp>lib/poi-scratchpad-4.1.1.jar</cp>
+    <cp>lib/rs2xml.jar</cp>
+    <cp>lib/xmlbeans-3.1.0.jar</cp>
+    <cp>lib/itextpdf-5.1.0.jar</cp>
+    <cp>lib/AbsoluteLayout.jar</cp>
+  </classPath>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.6</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.RC1</txtFileVersion>
+    <fileDescription>SMS Software</fileDescription>
+    <copyright>2019 - 2020 NIIBS Group 01 all rigths reserved.</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>Student Management System</productName>
+    <companyName>NIIBS Group 01</companyName>
+    <internalName>SMS</internalName>
+    <originalFilename>Student Management System.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_UK</language>
+  </versionInfo>
+</launch4jConfig>
