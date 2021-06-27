@@ -21,3 +21,5 @@ As the name specifies "Student Management System" is a software developed for ma
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+<iframe width="852" height="480" src="https://www.youtube.com/embed/r5epjfpEpiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
