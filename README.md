@@ -23,12 +23,21 @@ Project Details
 
 *	Dashboard 
 *	User can login as multiple roles
-*	View,edit,remove student
+*	Audit details
+*	Student registration
+*	Insert, update, delete student details
+*	Insert, update, delete lecturer details
+*	Insert, update, delete course details
+*	Insert, update, delete subject details
 *	Student payment management
 *	Student attendance management
-*	Manage teachers
-*	Manage subjects
-*	Print reports 
+*	Student exam marks calculate
+*	Print reports (excel, pdf)
+
+### Running Student Management System
+	Install required software : Java Runtime Envirenment (1.6.0 or higer), 
+			    Wamp Server or Xampp Server
+
 
 ### Built With
 
