@@ -21,23 +21,37 @@ Project Details
 
 ### Features
 
-*	Dashboard 
-*	User can login as multiple roles
-*	Audit details
-*	Student registration
-*	Insert, update, delete student details
-*	Insert, update, delete lecturer details
-*	Insert, update, delete course details
-*	Insert, update, delete subject details
-*	Student payment management
-*	Student attendance management
-*	Student exam marks calculate
-*	Print reports (excel, pdf)
+* Dashboard 
+* User can login as multiple roles
+* Audit details
+* Student registration
+* Insert, update, delete student details
+* Insert, update, delete lecturer details
+* Insert, update, delete course details
+* Insert, update, delete subject details
+* Student payment management
+* Student attendance management
+* Student exam marks calculate
+* Print reports (excel, pdf)
 
 ### Running Student Management System
-	Install required software : Java Runtime Envirenment (1.6.0 or higer), 
-			    Wamp Server or Xampp Server
 
+* Install required software : Java Runtime Envirenment (1.6.0 or higer), Wamp Server or Xampp Server
+* Create database : on Wamp Server or Xampp Server ( database name = "sms_database", username = "root", password = " ", import sql file = "sms_database.sql")
+
+### Default Passwords
+
+* Student Management System:
+
+	Username  : Admin
+	Password  : Pass123
+	Usertype  : Admin
+
+* MySQL (phpMyAdmin):
+
+	User: root
+	Password:
+   	(means no password!)
 
 ### Built With
 
