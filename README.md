@@ -43,15 +43,11 @@ Project Details
 
 * Student Management System:
 
-	Username  : Admin
-	Password  : Pass123
-	Usertype  : Admin
+	Username  : Admin, Password  : Pass123, Usertype  : Admin
 
 * MySQL (phpMyAdmin):
 
-	User: root
-	Password:
-   	(means no password!)
+	User: root, Password: (means no password!)
 
 ### Built With
 
